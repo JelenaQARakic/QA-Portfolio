@@ -9,11 +9,11 @@ MatchIT represents a fresh mobile application launched in Serbia, often dubbed a
 
 In my involvement with this initiative, I undertook the comprehensive testing of the entire application across diverse devices. The following encapsulates my key contributions to the project:
 
-    Conducting feature and regression testing encompassing both functionality and design aspects,
-    Formulating test cases utilizing methodologies such as Boundary Value Analysis and State Transition Technique,
-    Compiling detailed bug reports,
-    Proposing functional and visual enhancements,
-    Executing exploratory testing.
+ Conducting feature and regression testing encompassing both functionality and design aspects,
+   * Formulating test cases utilizing methodologies such as Boundary Value Analysis and State Transition Technique,
+   * Compiling detailed bug reports,
+   * Proposing functional and visual enhancements,
+   * Executing exploratory testing.
     
 Environments are:
 
@@ -34,6 +34,7 @@ Bug reports
 Test cases
 
 How to Contribute:
-Should you have suggestions or a desire to contribute to this project, please don't hesitate to open an Issue or submit a Pull Request. Your input is crucial for the ongoing refinement of this project.
+
+If you have suggestions or a desire to contribute to this project, please don't hesitate to open an Issue or submit a Pull Request. Your input is crucial for the ongoing refinement of this project.
 
 Thank you for exploring my GitHub portfolio and delving into my contributions to MatchIT!
