@@ -25,12 +25,12 @@ Testing
 
 Evaluating the MatchIT application involved a comprehensive analysis of diverse elements, ranging from functionality (swipe/match/chat) and design to user experience. Test scenarios formed the basis of our assessments, with any identified issues meticulously documented through bug reports. Furthermore, I provided recommendations for enhancements to elevate the app's user-friendly design.
 
-Reports:
-
 Within this repository, you'll find the following reports:
 
 Improvements
+
 Bug reports
+
 Test cases
 
 How to Contribute:
