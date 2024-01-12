@@ -51,7 +51,8 @@ overlapping elements.
 
 **Screenshot:**
 
-<img src="./media/image1.png" style="width:6.5in;height:3.80556in" />
+
+--------------------------------------------------------------------------------------------------------------------
 
 **Bug Report 2: Inability to Input Salary Range on Samsung Galaxy Fold**
 
@@ -100,6 +101,7 @@ preventing users from specifying the desired salary range.
 **Video** has been provided into the folder QA portfolio with the same
 bug title.
 
+----------------------------------------------------------------------------------------------------------
 **Bug Report 3: Unexpected Token Error in Bootstrap JavaScript**
 
 **Summary:**
