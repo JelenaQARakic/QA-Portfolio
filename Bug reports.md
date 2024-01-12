@@ -45,8 +45,7 @@ the page, leading to an incomplete display.
 
 **Attachment:**
 
-<img src="./media/image1.jpg"
-style="width:3.00657in;height:6.45313in" />
+**A screenshot has been provided in the "media" folder with the same bug title.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -93,10 +92,7 @@ the same bug title.
 
 **Attachment:**
 
-Screenshot:
-
-<img src="./media/image1.jpg"
-style="width:3.62219in;height:7.75521in" />
+**A screenshot has been provided in the "media" folder with the same bug title.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -143,7 +139,7 @@ resulting in negative numbers such as "-1".
 
 **Expected Result:** Tapping on the "Amazon Aurora" checkbox should
 prompt a message informing the user that the maximum number of selected
-technologies has been reached.  
+technologies have been reached.  
 If the candidate wishes to add more, they should first deselect one
 technology to select another. Alternatively, consider increasing the
 maximum allowed selected technologies.
@@ -155,7 +151,7 @@ allowed.
 
 **Attachment:**
 
-Provided into the folder QA portfolio with the same bug title.
+**A screenshot has been provided in the "media" folder with the same bug title.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -211,8 +207,7 @@ determining if additional skills and badges exist.
 
 **Attachment:**
 
-<img src="./media/image2.jpg"
-style="width:3.22668in;height:6.91146in" />
+**A screenshot has been provided in the "media" folder with the same bug title.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
@@ -259,7 +254,4 @@ elements on the page.
 **Actual Result:** The table's background color is not visible on the
 entire screen.
 
-**Screenshot:**
-
-<img src="./media/image3.jpg"
-style="width:4.43342in;height:5.96984in" />
+**A screenshot has been provided in the "media" folder with the same bug title.
