@@ -49,7 +49,7 @@ overlapping issue.
 impact on user experience and the potential for confusion caused by the
 overlapping elements.
 
-**Screenshot:**
+**A screenshot has been provided in the "media" folder with the same bug title.
 
 
 --------------------------------------------------------------------------------------------------------------------
@@ -121,7 +121,7 @@ file.
 
 **-** Recruiter is logged into the app
 
-\- Application is loaded in a web browser.
+\- The application is loaded in a web browser.
 
 \- Bootstrap JavaScript file is included in the project.
 
@@ -136,7 +136,7 @@ bootstrap.min.js:1:1" error.
 
 **Expected Result:**
 
-The application should load without any JavaScript errors, and the
+The application should load without any JavaScript errors and the
 Bootstrap JavaScript file should be executed successfully.
 
 **Actual Result:**
@@ -147,6 +147,7 @@ indicating an "Unexpected token '\<' at bootstrap.min.js:1:1."
 **Attachments:**
 
 Screenshot of the console logs displaying the error message.
+**A screenshot has been provided in the "media" folder with the same bug title.
 
 A snippet of the HTML file where the Bootstrap JavaScript file is
 included.
@@ -171,10 +172,7 @@ Severity/Priority:
 \- Priority: High (as it affects the core functionality of the
 application)
 
-**Screenshot:**
-
-<img src="./media/image2.png"
-style="width:7.21354in;height:5.76042in" />
+**A screenshot has been provided in the "media" folder with the same bug title.
 
 **Log: Uncaught SyntaxError: Unexpected token '\<' (at
 bootstrap.min.js:1:1)**
