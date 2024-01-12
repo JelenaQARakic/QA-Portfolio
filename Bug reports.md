@@ -48,6 +48,8 @@ the page, leading to an incomplete display.
 <img src="./media/image1.jpg"
 style="width:3.00657in;height:6.45313in" />
 
+----------------------------------------------------------------------------------------------------------------------------
+
 **Bug Report 2: Non-Clickable "Add Education" Button**
 
 **Summary:** Profil-Education-"Add education" is disabled after adding 4
@@ -95,6 +97,8 @@ Screenshot:
 
 <img src="./media/image1.jpg"
 style="width:3.62219in;height:7.75521in" />
+
+----------------------------------------------------------------------------------------------------------------------------
 
 **Bug Report 3: Decreasing Number of Selected Technologies**
 
@@ -153,6 +157,8 @@ allowed.
 
 Provided into the folder QA portfolio with the same bug title.
 
+----------------------------------------------------------------------------------------------------------------------------
+
 **Bug Report 4: Display issue in skills and badges**
 
 **Summary:** The last 2 skills and badges are"Cut of"/ Shrinked
@@ -207,6 +213,8 @@ determining if additional skills and badges exist.
 
 <img src="./media/image2.jpg"
 style="width:3.22668in;height:6.91146in" />
+
+----------------------------------------------------------------------------------------------------------------------------
 
 **Bug Report 5: Alignment Issue with Table Background Color**
 
