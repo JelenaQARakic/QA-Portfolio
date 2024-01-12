@@ -27,11 +27,13 @@ Evaluating the MatchIT application involved a comprehensive analysis of diverse 
 
 Within this repository, you'll find the following reports:
 
-Improvements
+Bug reports and improvements using Chrome Dev Tools
 
 Bug reports
 
-Test cases
+Improvements
+
+testCases
 
 How to Contribute:
 
