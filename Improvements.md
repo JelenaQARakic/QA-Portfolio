@@ -4,18 +4,20 @@
 Select**
 
 **Current:** The "Benefits" section lacks clarity regarding the number
-of benefits candidates can checkmark.
+of benefits that candidates can checkmark.
 
 **Requested:** Determine the maximum number of benefits candidates can
 select.
 
-Introduce a counter above the benefit names that displays the current
+Introduce a counter above the benefit names that shows the current
 number of selected benefits about the maximum allowed. For example,
 "1/20" indicates that one benefit has been selected out of a maximum of
 twenty.  
 **Reason:** Prevent confusion as candidates may attempt to select all
 benefits, which is not allowed. Clear communication will enhance user
 experience.
+
+----------------------------------------------------------------------------------------------------------------------------
 
 **Improvement 2: Lack of Information on maximum Certificates**
 
@@ -29,10 +31,12 @@ certificates candidates can add.
 NB: This may be a possible bug, but we can only guess or check with
 developers since the documentation is not provided.
 
+----------------------------------------------------------------------------------------------------------------------------
+
 **Improvement 3:** **Consider Notification for Saved Changes**
 
 **Current:** Basic information for example, including the candidate's
-name and surname, requires input, but there is no "Confirm" or "Save"
+name and surname require input, but there is no "Confirm" or "Save"
 button.
 
 **Requested:** Introduce a "Confirm" or "Save" button for additional
@@ -41,19 +45,21 @@ data input.
 **Reason:** Enhance user confidence by ensuring candidates that their
 data is saved after input.
 
-It is recommended to implement a notification indicating that changes
-have been successfully saved. The absence of a confirmation message may
+Implementing a notification indicating that changes
+have been successfully saved is recommended. The absence of a confirmation message may
 lead to uncertainty regarding the status of the submitted information. A
-"Confirm" or "Save" button, coupled with a notification, will provide a
+The "Confirm" or "Save" button, coupled with a notification, will provide a
 clearer and more reassuring user experience.
+
+----------------------------------------------------------------------------------------------------------------------------
 
 **Improvement 4: Adding Unlisted Technologies**
 
 **Current:** Candidates can add technologies from a predefined list, but
 there is no provision for adding a technology not on the list.
 
-**Requested:** Include an "Other" field that allows candidates to
-manually enter unlisted technologies. Submitted entries will be sent to
+**Requested:** Include an "Other" field that allows candidates to enter unlisted technologies manually. 
+Submitted entries will be sent to
 the administrator for approval before being added to the list.
 
 **Reason:** Candidates may possess knowledge of technologies not
@@ -68,6 +74,8 @@ box allows candidates to freely specify additional technologies,
 contributing to a more inclusive representation of their technological
 expertise.
 
+----------------------------------------------------------------------------------------------------------------------------
+
 **Improvement 5: Inability to Add Unlisted Benefits**
 
 **Current:** Candidates can add benefits from a list, but there is no
@@ -80,6 +88,8 @@ benefits not listed.
 existing list.
 
 Do the same as for the technologies.
+
+----------------------------------------------------------------------------------------------------------------------------
 
 **Improvement 6: Inability to Add Unlisted Skills and Badges**
 
