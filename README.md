@@ -2,7 +2,7 @@
 
 
 # Testing MatchIT https://matchit.rs/
-Testing MatchIT application mobile/Web
+Testing application mobile/Web
 Project
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 MatchIT represents a fresh mobile application launched in Serbia, often dubbed as the Tinder for job seekers. Users can effortlessly swipe through job opportunities, expressing interest and establishing a connection. Upon a successful match, users receive a message through MatChat, initiating communication with potential employers.
